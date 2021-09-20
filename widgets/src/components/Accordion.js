@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 
-
 const Accordion = ({ items }) => {
     // array destructuring
     // shortcut to get access to elements inside of an array
